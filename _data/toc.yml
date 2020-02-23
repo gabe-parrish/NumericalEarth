@@ -41,7 +41,7 @@
   - url: /guide/06_advanced
 
 - divider: true
-- header:Python Implementations of Taras Gerya's Intro to Numerical Geodynamic Modeling
+- header: Python Implementations of Taras Gerya's Intro to Numerical Geodynamic Modeling
 
 - url: /Geodynamics/intro/frontmatter
   not_numbered: true
