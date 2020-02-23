@@ -40,6 +40,95 @@
   - url: /guide/05_faq
   - url: /guide/06_advanced
 
+- divider: true
+- header:Python Implementations of Taras Gerya's Intro to Numerical Geodynamic Modeling
+- url: /Geodynamics/frontmatter
+  not_numbered: true
+  expand_sections: true
+
+- url: /Geodynamics/intro
+  not_numbered: true
+  expand_sections: true
+  sections:
+    - url: /Geodynamics/intro/intro
+      not_numbered: true
+    - url:/Geodynamics/intro/intro_exercises
+    - not_numbered: true
+
+- url: /Geodynamics/Ch1
+  not_numbered: true
+  expand_sections: true
+  sections:
+    - url: /Geodynamics/Ch1/continuity_ch1
+
+- url: /Geodynamics/Ch2
+  not_numbered: true
+  expand_sections: true
+  sections:
+    - url: /Geodynamics/Ch1/density_and_gravity_ch2
+
+- url: /Geodynamics/Ch3
+  not_numbered: true
+  expand_sections: true
+  sections:
+    - url: /Geodynamics/Ch1/numerical_sols_to_pdes_ch3
+
+## ====
+#- url: /01/what-is-data-science
+#  sections:
+#    - url: /01/1/intro
+#    - url: /01/2/why-data-science
+#    - url: /01/3/Plotting_the_Classics
+#      subsections:
+#        - url: /01/3/subsection/subsections
+#        - url: /01/3/subsection/subsectiontwo
+#- url: /02/causality-and-experiments
+#  sections:
+#  - url: /02/1/observation-and-visualization-john-snow-and-the-broad-street-pump
+#  - url: /02/2/snow-s-grand-experiment
+#  - url: /02/3/establishing-causality
+#  - url: /02/4/randomization
+#  - url: /02/5/endnote
+#
+#- url: /03/programming-in-python
+#  sections:
+#  - url: /03/1/Expressions
+#  - url: /03/2/Names
+#  - url: /03/3/Calls
+#  - url: /03/4/Introduction_to_Tables
+## =====
+#
+#- url: /Geodynamics/frontmatter
+#  not_numbered: true
+#  expand_sections: true
+#  sections:
+#  - url: /Geodynamics/intro
+#    not_numbered: true
+#  - url: /Geodynamics/Ch1
+#    not_numbered: true
+#  - url: /Geodynamics/Ch1
+#    not_numbered: true
+#  - url: /Geodynamics/Ch1
+#    not_numbered: true
+#  - url: /Geodynamics/Ch1
+#    not_numbered: true
+#  - url: /Geodynamics/Ch1
+#    subsections:
+#    - url: /features/interactive_cells
+#      not_numbered: true
+#    - url: /features/math
+#      not_numbered: true
+#    - url: /features/titles
+#      not_numbered: true
+#    - url: /features/citations
+#      not_numbered: true
+#    - url: /features/jupytext
+#      not_numbered: true
+#    - url: /features/layout
+#      not_numbered: true
+#    - url: /features/page
+#      not_numbered: true
+
 - url: /features/features
   not_numbered: true
   expand_sections: true
