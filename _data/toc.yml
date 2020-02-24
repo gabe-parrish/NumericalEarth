@@ -129,35 +129,29 @@
     - url: /test_pages/code
     - url: /test_pages/limits
 
-#- divider: true
-#- header: Python Implementations of Taras Gerya's Intro to Numerical Geodynamic Modeling
-#
-#- url: /geodynamics/intro/frontmatter
-#  not_numbered: true
-#  expand_sections: true
-#  sections:
-#  - url: /geodynamics/intro/00/intro
-#
-#- url: /geodynamics/Ch1/ch1
-#  not_numbered: true
-#  expand_sections: true
-#  sections:
-#  - url: /geodynamics/Ch1/01/continuity_ch1
-#
-#- url: /geodynamics/Ch2/ch2
-#  not_numbered: true
-#  expand_sections: true
-#  sections:
-#  - url: /geodynamics/Ch2/02/density_and_gravity_ch2
-#
-#- url: /geodynamics/Ch3/ch3
-#  not_numbered: true
-#  expand_sections: true
-#  sections:
-#  - url: /geodynamics/Ch3/03/numerical_sols_to_pdes_ch3
-#
-#- url: /geodynamics/Ch3/ch3
-#  not_numbered: true
-#  expand_sections: true
-#  sections:
-#  - url: /geodynamics/Ch3/03/numerical_sols_to_pdes_ch3
+- divider: true
+- header: Python Implementations of Taras Gerya's Intro to Numerical Geodynamic Modeling
+
+- url: /geodynamics/intro/frontmatter
+  not_numbered: true
+  expand_sections: true
+  sections:
+  - url: /geodynamics/intro/00/intro_section
+
+- url: /geodynamics/Ch1/ch1
+  not_numbered: true
+  expand_sections: true
+  sections:
+  - url: /geodynamics/Ch1/01/continuity_ch1
+
+- url: /geodynamics/Ch2/ch2
+  not_numbered: true
+  expand_sections: true
+  sections:
+  - url: /geodynamics/Ch2/02/density_and_gravity_ch2
+
+- url: /geodynamics/Ch3/ch3
+  not_numbered: true
+  expand_sections: true
+  sections:
+  - url: /geodynamics/Ch3/03/numerical_sols_to_pdes_ch3
