@@ -42,7 +42,7 @@ functionality. To use them we will 'import' them to our scipts and apply them to
  are loops, logic and data structures. Most importantly, don't allow yourself to be intimidated. Baby steps and normal 
  human brains will get you there.
  
- We will use Python notebooks to do the exercises because you can write text and execute code all in one place. 
+ We will use Python Jupyter notebooks to do the exercises because you can write text and execute code all in one place. 
  It's really nice.
  
   There are all manner of resources out there for learning (I like "Learn Python the 
@@ -59,7 +59,7 @@ functionality. To use them we will 'import' them to our scipts and apply them to
  
  Practice: 
  
- ### I
+ ###Part I
  
  To be done in a Jupyter notebook.
  
@@ -73,6 +73,8 @@ functionality. To use them we will 'import' them to our scipts and apply them to
  P.S. Numpy arrays have specific logic for arrays that can be a bit different, so I'll show that when I need to but
   it's worth a google.
   
-### II
+###Part II
 
-Write a script to visualise the sin and cos functions in 2d and 3d with Matplotlib. Do this in a Jupyter Notebook.
+Write a script to visualize the sin() and cos() functions in 2d and 3d with Matplotlib. Do this in a Jupyter Notebook.
+
+
