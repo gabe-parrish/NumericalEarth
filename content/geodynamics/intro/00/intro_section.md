@@ -61,7 +61,7 @@ functionality. To use them we will 'import' them to our scipts and apply them to
  
  ###Part I
  
- To be done in a Jupyter notebook.
+ (To be done in a Jupyter notebook.)
  
  1. Defining variables, numpy vectors and matrixes.
  2. Learn the mathematical functions + - * ** / ^ exp, log etc.
