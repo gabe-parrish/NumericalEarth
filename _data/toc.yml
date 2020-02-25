@@ -137,6 +137,7 @@
   expand_sections: true
   sections:
   - url: /geodynamics/intro/00/intro_section
+  - url: /geodynamics/intro/00/intro_exercises
 
 - url: /geodynamics/Ch1/ch1
   not_numbered: true
